@@ -2,6 +2,7 @@ package com.ac.day20190211.abstractclass;
 
 /**
  * Created by Chong Ao on 2019/2/11.
+ * 模板设计模式案例
  */
 public class Pig extends Action{
     @Override

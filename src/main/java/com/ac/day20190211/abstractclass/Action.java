@@ -2,6 +2,7 @@ package com.ac.day20190211.abstractclass;
 
 /**
  * Created by Chong Ao on 2019/2/11.
+ * 模板设计模式案例
  */
 public abstract class Action {//定义的是行为，行为一定不是具体的
     public static final int EAT = 1;

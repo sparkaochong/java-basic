@@ -6,7 +6,7 @@ package com.ac.day20190212.interfaceexample;
  */
 interface A{
     String MSG = "Hello World!";
-    public void print();
+    void print();
 }
 interface B{
     public abstract void fun();
@@ -24,7 +24,10 @@ class X implements A,B{
 }
 public class InterfaceDemo {
     public static void main(String[] args) {
-        X x = new X();
+        A a = new X();
+        B b = (B) a;
+        b.fun();
+        /*X x = new X();
         A a = x;
         System.out.println(a instanceof A);
         B b = x;
@@ -34,6 +37,6 @@ public class InterfaceDemo {
         ((X) b).print();
         b.fun();
         x.print();
-        x.fun();
+        x.fun();*/
     }
 }
