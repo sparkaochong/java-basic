@@ -48,7 +48,7 @@ com.ac.day20190211.abstractclass.Pig.java
 com.ac.day20190211.abstractclass.TestDemo6.java
 ### 笔记链接：
 | 章节 | 笔记链接 | 对应笔记内容部分 |
-| :---: | :--- | :--- |
+| :--- | :--- | :--- |
 | 12-1 | https://app.yinxiang.com/shard/s51/nl/22142982/5d0a86eb-58d9-4780-8a9b-9d5b519b4794 | 2.1章节 |
 | 12-2 | https://app.yinxiang.com/shard/s51/nl/22142982/5d0a86eb-58d9-4780-8a9b-9d5b519b4794 | 2.2章节 |
 | 12-3 | https://app.yinxiang.com/shard/s51/nl/22142982/5d0a86eb-58d9-4780-8a9b-9d5b519b4794 | 2.3章节 |
