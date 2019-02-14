@@ -11,8 +11,10 @@ interface A4{
 class X4 implements A4.B{
     @Override
     public void print() {
-
     }
 }
 public class InterfaceDemo4 {
+    public static void main(String[] args) {
+
+    }
 }
