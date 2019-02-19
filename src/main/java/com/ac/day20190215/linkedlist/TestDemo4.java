@@ -13,6 +13,7 @@ interface Link{
     public void set(int index, Object obj); //修改指定位置数据
     public void remove(Object data);    //删除数据
     public void clear();    //清空链表
+    public Object[] toArray();  //返回对象数组
 }
 class LinkImpl implements Link{
     private class Node{
@@ -68,10 +69,16 @@ class LinkImpl implements Link{
             }
         }
 
+        public void toArrayNode(){
+            LinkImpl.this.retData[LinkImpl.this.foot++] = this.data;
+            if(this.next != null)   this.next.toArrayNode();
+        }
+
     }
     private Node root;
     private int count;
     private int foot = 0;
+    private Object[] retData = null;
 
     @Override
     public void add(Object data) {
@@ -140,6 +147,17 @@ class LinkImpl implements Link{
         this.root = null;
         this.count = 0;
     }
+
+    @Override
+    public Object[] toArray() {
+        if(this.root.data == null){
+            return null;
+        }
+        this.retData = new Object[this.count];
+        this.foot = 0;
+        this.root.toArrayNode();
+        return this.retData;
+    }
 }
 public class TestDemo4 {
     public static void main(String[] args) {
@@ -147,7 +165,9 @@ public class TestDemo4 {
         all.add("火车头");
         all.add("车厢1");
         all.add("车厢2");
-        all.remove("车厢1");
-        System.out.println(all.get(1));
+        Object[] obj = all.toArray();
+        for(int x =0; x<obj.length; x++){
+            System.out.println(obj[x]);
+        }
     }
 }
