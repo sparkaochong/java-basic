@@ -14,6 +14,7 @@ public class WrapperClass6 {
         System.out.println(num == x2);  //true
         System.out.println(x2 == x3);  //false
         System.out.println(num == x3);  //true
+        System.out.println(num == x3);  //true
         System.out.println(x2.equals(x3));  //true
     }
 }
