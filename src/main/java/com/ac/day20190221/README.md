@@ -49,6 +49,17 @@ com.ac.day20190221.lamda.TestDemo8.java
 com.ac.day20190221.lamda.TestDemo9.java  
 com.ac.day20190221.lamda.TestDemo10.java  
 com.ac.day20190221.lamda.TestDemo11.java  
+### 32-2 多线程的实现【继承Thread】
+com.ac.day20190221.advanced_pro.TestDemo.java  
+### 32-3 多线程的实现【实现Runnable】
+com.ac.day20190221.advanced_pro.TestDemo1.java  
+com.ac.day20190221.advanced_pro.TestDemo2.java  
+com.ac.day20190221.advanced_pro.TestDemo3.java
+### 32-4 多线程的实现【两种线程实现方式的区别】
+com.ac.day20190221.advanced_pro.TestDemo4.java  
+com.ac.day20190221.advanced_pro.TestDemo5.java
+### 32-5 多线程的实现【实现Callable】
+com.ac.day20190221.advanced_pro.TestDemo6.java
 ### 笔记链接：
 | 章节 | 笔记链接 | 笔记内容 |
 | :--- | :--- | :--- |
@@ -68,6 +79,11 @@ com.ac.day20190221.lamda.TestDemo11.java
 | 31-2 | https://app.yinxiang.com/shard/s51/nl/22142982/a3553cfe-51ed-46f9-929f-4142a4b44b4e | 2.2章节 |
 | 31-3 | https://app.yinxiang.com/shard/s51/nl/22142982/a3553cfe-51ed-46f9-929f-4142a4b44b4e | 2.3章节 |
 | 31-4 | https://app.yinxiang.com/shard/s51/nl/22142982/a3553cfe-51ed-46f9-929f-4142a4b44b4e | 2.4章节 |
+| 32-1 | https://app.yinxiang.com/shard/s51/nl/22142982/efa21d95-1c96-4d5a-9285-9907f9c6da59 | 2.1章节 |
+| 32-2 | https://app.yinxiang.com/shard/s51/nl/22142982/efa21d95-1c96-4d5a-9285-9907f9c6da59 | 2.2章节 |
+| 32-3 | https://app.yinxiang.com/shard/s51/nl/22142982/efa21d95-1c96-4d5a-9285-9907f9c6da59 | 2.3章节 |
+| 32-4 | https://app.yinxiang.com/shard/s51/nl/22142982/efa21d95-1c96-4d5a-9285-9907f9c6da59 | 2.4章节 |
+| 32-5 | https://app.yinxiang.com/shard/s51/nl/22142982/efa21d95-1c96-4d5a-9285-9907f9c6da59 | 2.5章节 |
 
 
 
