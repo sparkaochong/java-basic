@@ -31,6 +31,24 @@ com.ac.day20190221.annotation.TestDemo.java
 com.ac.day20190221.annotation.TestDemo1.java
 ### 30-4 压制警告
 com.ac.day20190221.annotation.TestDemo2.java
+### 31-1 接口定义增强
+com.ac.day20190221.interface_enhance.TestDemo.java  
+com.ac.day20190221.interface_enhance.TestDemo1.java
+### 31-2 Lamda表达式
+com.ac.day20190221.lamda.TestDemo.java  
+com.ac.day20190221.lamda.TestDemo1.java  
+com.ac.day20190221.lamda.TestDemo2.java  
+com.ac.day20190221.lamda.TestDemo3.java
+### 31-3 方法引用
+com.ac.day20190221.lamda.TestDemo4.java  
+com.ac.day20190221.lamda.TestDemo5.java  
+com.ac.day20190221.lamda.TestDemo6.java  
+com.ac.day20190221.lamda.TestDemo7.java
+### 31-4 内建函数式接口
+com.ac.day20190221.lamda.TestDemo8.java  
+com.ac.day20190221.lamda.TestDemo9.java  
+com.ac.day20190221.lamda.TestDemo10.java  
+com.ac.day20190221.lamda.TestDemo11.java  
 ### 笔记链接：
 | 章节 | 笔记链接 | 笔记内容 |
 | :--- | :--- | :--- |
@@ -46,6 +64,10 @@ com.ac.day20190221.annotation.TestDemo2.java
 | 30-2 | https://app.yinxiang.com/shard/s51/nl/22142982/615eb232-bfc7-4b90-94db-a29d0c326c04 | 2.2章节 |
 | 30-3 | https://app.yinxiang.com/shard/s51/nl/22142982/615eb232-bfc7-4b90-94db-a29d0c326c04 | 2.3章节 |
 | 30-4 | https://app.yinxiang.com/shard/s51/nl/22142982/615eb232-bfc7-4b90-94db-a29d0c326c04 | 2.4章节 |
+| 31-1 | https://app.yinxiang.com/shard/s51/nl/22142982/a3553cfe-51ed-46f9-929f-4142a4b44b4e | 2.1章节 |
+| 31-2 | https://app.yinxiang.com/shard/s51/nl/22142982/a3553cfe-51ed-46f9-929f-4142a4b44b4e | 2.2章节 |
+| 31-3 | https://app.yinxiang.com/shard/s51/nl/22142982/a3553cfe-51ed-46f9-929f-4142a4b44b4e | 2.3章节 |
+| 31-4 | https://app.yinxiang.com/shard/s51/nl/22142982/a3553cfe-51ed-46f9-929f-4142a4b44b4e | 2.4章节 |
 
 
 
