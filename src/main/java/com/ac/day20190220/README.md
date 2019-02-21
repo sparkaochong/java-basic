@@ -21,6 +21,16 @@ com.ac.day20190220.exception.TestDemo9.java
 com.ac.day20190220.exception.AssertDemo.java
 ### 24-10 自定义异常类
 com.ac.day20190220.exception.TestDemo10.java
+### 27-1 可变参数
+com.ac.day20190220.TestDemo.java  
+com.ac.day20190220.TestDemo1.java
+### 27-2 foreach
+com.ac.day20190220.TestDemo2.java  
+com.ac.day20190220.TestDemo3.java
+### 27-3 静态导入
+com.ac.day20190220.util.MyMath.java  
+com.ac.day20190220.TestDemo4.java  
+com.ac.day20190220.TestDemo5.java  
 ### 笔记链接：
 | 章节 | 笔记链接 | 笔记内容 |
 | :--- | :--- | :--- |
@@ -34,6 +44,9 @@ com.ac.day20190220.exception.TestDemo10.java
 | 24-8 | https://app.yinxiang.com/shard/s51/nl/22142982/faf7fb27-757e-4e59-92cf-c651f7e5dfd7 | 2.8章节 |
 | 24-9 | https://app.yinxiang.com/shard/s51/nl/22142982/faf7fb27-757e-4e59-92cf-c651f7e5dfd7 | 2.9章节 |
 | 24-10 | https://app.yinxiang.com/shard/s51/nl/22142982/faf7fb27-757e-4e59-92cf-c651f7e5dfd7 | 2.10章节 |
+| 27-1 | https://app.yinxiang.com/shard/s51/nl/22142982/a5f3524d-085b-4424-8a3c-db6291b31735 | 2.1章节 |
+| 27-2 | https://app.yinxiang.com/shard/s51/nl/22142982/a5f3524d-085b-4424-8a3c-db6291b31735 | 2.2章节 |
+| 27-3 | https://app.yinxiang.com/shard/s51/nl/22142982/a5f3524d-085b-4424-8a3c-db6291b31735 | 2.3章节 |
 
 
 
