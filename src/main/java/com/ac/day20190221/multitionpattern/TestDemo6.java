@@ -13,6 +13,7 @@ enum Color6 implements IMessage{
     private Color6(String title){   //构造方法必须私有化，使用非public
         this.title = title;
     }
+    @Override
     public String toString(){
         return this.title;
     }
