@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0ae895b-bd97-4487-b3ff-47d83c6706d8" name="Default Changelist" comment="" />
+    <list default="true" id="f0ae895b-bd97-4487-b3ff-47d83c6706d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190228/20190228.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190228/array/TestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190228/array/TestDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190228/array/TestDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190228/array/TestDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190228/array/TestDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190228/array/TestDemo5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ac/day20190228/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190228/README.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,11 +22,96 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190227/math/TestDemo6.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190228/array/TestDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state>
+              <caret column="32" selection-start-column="8" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190228/array/TestDemo1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="10" selection-start-line="10" selection-end-line="18" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190228/array/TestDemo2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="10" selection-start-line="10" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190228/array/TestDemo3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="56" column="36" lean-forward="true" selection-start-line="56" selection-start-column="36" selection-end-line="56" selection-end-column="36" />
+              <folding>
+                <element signature="e#355#356#0" expanded="true" />
+                <element signature="e#382#383#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#454#455#0" expanded="true" />
+                <element signature="e#481#482#0" expanded="true" />
+                <element signature="e#507#508#0" expanded="true" />
+                <element signature="e#542#543#0" expanded="true" />
+                <element signature="e#572#573#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190228/array/TestDemo4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2618">
+              <caret line="10" selection-start-line="10" selection-end-line="124" selection-end-column="1" />
+              <folding>
+                <element signature="e#329#330#0" expanded="true" />
+                <element signature="e#356#357#0" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#428#429#0" expanded="true" />
+                <element signature="e#455#456#0" expanded="true" />
+                <element signature="e#481#482#0" expanded="true" />
+                <element signature="e#516#517#0" expanded="true" />
+                <element signature="e#546#547#0" expanded="true" />
+                <element signature="e#656#657#0" expanded="true" />
+                <element signature="e#694#695#0" expanded="true" />
+                <element signature="e#1085#1086#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190228/array/TestDemo5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="424">
+              <caret line="60" column="1" lean-forward="true" selection-start-line="50" selection-end-line="60" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#894#895#0" expanded="true" />
+                <element signature="e#918#919#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190228/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="286">
+                <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -38,13 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190221/advanced_pro/TestDemo6.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190221/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190221/multitionpattern/TestDemo5.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190221/multitionpattern/TestDemo6.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190225/thread/TestDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190225/thread/TestDemo1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190225/thread/TestDemo2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190225/thread/TestDemo3.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190225/thread/TestDemo4.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190225/thread/TestDemo5.java" />
@@ -89,10 +177,17 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190227/math/TestDemo5.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190227/math/TestDemo6.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190227/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190228/array/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190228/array/TestDemo1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190228/array/TestDemo2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190228/array/TestDemo3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190228/array/TestDemo4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190228/array/TestDemo5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190228/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1378" />
@@ -106,7 +201,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,29 +235,52 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ac" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java-basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ac" type="462c0819:PsiDirectoryNode" />
+              <item name="day20190228" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ac" type="462c0819:PsiDirectoryNode" />
+              <item name="day20190228" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551332924810" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551365617741" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3862069" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Idea-Workspace-Java\java-base\src\main\java\com\ac\day20190210\innerclass" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aochong\Documents\GitHub\java-basic\src\main\java\com\ac\day20190228\array" />
+      <recent name="C:\Users\aochong\Documents\GitHub Repository\java-basic\src\main\java\com\ac\day20190227" />
+      <recent name="C:\Users\aochong\Documents\GitHub Repository\java-basic\src\main\java\com\ac\day20190226" />
+      <recent name="C:\Users\aochong\Documents\GitHub Repository\java-basic\src\main\java\com\ac\day201900228" />
+      <recent name="C:\Users\aochong\Documents\GitHub Repository\java-basic\src\main\java\com\ac\day20190227\date" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.ac.day20190227.math" />
@@ -171,12 +289,9 @@
       <recent name="com.ac.day20190227.runtime" />
       <recent name="com.ac.day20190227.string" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\aochong\Documents\GitHub Repository\java-basic\src\main\java\com\ac\day20190227" />
-      <recent name="C:\Users\aochong\Documents\GitHub Repository\java-basic\src\main\java\com\ac\day20190226" />
-      <recent name="C:\Users\aochong\Documents\GitHub Repository\java-basic\src\main\java\com\ac\day201900228" />
-      <recent name="C:\Users\aochong\Documents\GitHub Repository\java-basic\src\main\java\com\ac\day20190227\date" />
-      <recent name="C:\Users\aochong\Documents\GitHub Repository\java-basic\src\main\java\com\ac\day20190227\thread" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aochong\Documents\GitHub\java-basic\src\main\java\com\ac\day20190228" />
+      <recent name="E:\Idea-Workspace-Java\java-base\src\main\java\com\ac\day20190210\innerclass" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -191,9 +306,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestDemo6">
+  <component name="RunManager" selected="Application.TestDemo5">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ac.day20190228.array.TestDemo1" />
+      <module name="java-base" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ac.day20190228.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -212,13 +341,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDemo2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ac.day20190227.math.TestDemo2" />
-      <module name="java-basic" />
+    <configuration name="TestDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ac.day20190228.array.TestDemo2" />
+      <module name="java-base" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ac.day20190227.math.*" />
+          <option name="PATTERN" value="com.ac.day20190228.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,13 +355,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDemo3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ac.day20190227.math.TestDemo3" />
-      <module name="java-basic" />
+    <configuration name="TestDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ac.day20190228.array.TestDemo3" />
+      <module name="java-base" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ac.day20190227.math.*" />
+          <option name="PATTERN" value="com.ac.day20190228.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,13 +369,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDemo4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ac.day20190227.math.TestDemo4" />
-      <module name="java-basic" />
+    <configuration name="TestDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ac.day20190228.array.TestDemo4" />
+      <module name="java-base" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ac.day20190227.math.*" />
+          <option name="PATTERN" value="com.ac.day20190228.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,26 +384,12 @@
       </method>
     </configuration>
     <configuration name="TestDemo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ac.day20190227.math.TestDemo5" />
-      <module name="java-basic" />
+      <option name="MAIN_CLASS_NAME" value="com.ac.day20190228.array.TestDemo5" />
+      <module name="java-base" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ac.day20190227.math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestDemo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ac.day20190227.math.TestDemo6" />
-      <module name="java-basic" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ac.day20190227.math.*" />
+          <option name="PATTERN" value="com.ac.day20190228.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -314,19 +429,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.TestDemo1" />
-      <item itemvalue="Application.TestDemo2 (1)" />
-      <item itemvalue="Application.TestDemo3 (1)" />
-      <item itemvalue="Application.TestDemo4 (1)" />
+      <item itemvalue="Application.TestDemo1 (1)" />
+      <item itemvalue="Application.TestDemo2" />
+      <item itemvalue="Application.TestDemo3" />
+      <item itemvalue="Application.TestDemo4" />
       <item itemvalue="Application.TestDemo5" />
-      <item itemvalue="Application.TestDemo6" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestDemo6" />
         <item itemvalue="Application.TestDemo5" />
-        <item itemvalue="Application.TestDemo4 (1)" />
-        <item itemvalue="Application.TestDemo3 (1)" />
-        <item itemvalue="Application.TestDemo2 (1)" />
+        <item itemvalue="Application.TestDemo4" />
+        <item itemvalue="Application.TestDemo3" />
+        <item itemvalue="Application.TestDemo2" />
+        <item itemvalue="Application.TestDemo1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -371,6 +486,8 @@
       <workItem from="1551261591655" duration="8842000" />
       <workItem from="1551314703765" duration="5207000" />
       <workItem from="1551332840023" duration="96000" />
+      <workItem from="1551334701595" duration="603000" />
+      <workItem from="1551356282359" duration="7672000" />
     </task>
     <task id="LOCAL-00001" summary="修正了MarkDown语法">
       <created>1550117941694</created>
@@ -544,13 +661,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="259442000" />
+    <option name="totallyTimeSpent" value="267717000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26972282" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20522387" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -651,67 +768,16 @@
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ac/day20190228/array/TestDemo5.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190225/thread/TestDemo5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="8" selection-start-line="8" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190215/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190215/linkedlist/BookShopTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190214/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190225/thread/TestDemo3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190215/linkedlist/TestDemo4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="67" column="49" selection-start-line="67" selection-start-column="49" selection-end-line="67" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190226/thread/TestDemo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190226/thread/TestDemo3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1898">
@@ -1020,14 +1086,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190228/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190227/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1057,8 +1115,95 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190227/math/TestDemo6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="390">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190221/lamda/TestDemo7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190228/array/TestDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="10" selection-start-line="10" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190228/array/TestDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="10" selection-start-line="10" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190228/array/TestDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="56" column="36" lean-forward="true" selection-start-line="56" selection-start-column="36" selection-end-line="56" selection-end-column="36" />
+          <folding>
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190228/array/TestDemo5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="60" column="1" lean-forward="true" selection-start-line="50" selection-end-line="60" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#894#895#0" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190228/array/TestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190228/array/TestDemo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2618">
+          <caret line="10" selection-start-line="10" selection-end-line="124" selection-end-column="1" />
+          <folding>
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#656#657#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+            <element signature="e#1085#1086#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190228/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="286">
+            <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1115,11 +1260,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>java-basic</last-edited>
+          <last-edited>java-base</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.3862069" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
