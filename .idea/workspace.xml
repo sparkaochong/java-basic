@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0ae895b-bd97-4487-b3ff-47d83c6706d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day201900228/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/math/TestDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/math/TestDemo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/math/TestDemo6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ac/day20190226/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190226/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/date/SimpleDateFormat继承关系描述.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/date/SimpleDateFormat继承关系描述.pptx" afterDir="false" />
-    </list>
+    <list default="true" id="f0ae895b-bd97-4487-b3ff-47d83c6706d8" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,11 +11,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190227/math/TestDemo6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
+            <state relative-caret-position="572">
               <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
@@ -149,15 +140,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ac" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="java-basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ac" type="462c0819:PsiDirectoryNode" />
-              <item name="day201900228" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -168,7 +150,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551332871060" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551332924810" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -388,6 +370,7 @@
       <workItem from="1551241297728" duration="8126000" />
       <workItem from="1551261591655" duration="8842000" />
       <workItem from="1551314703765" duration="5207000" />
+      <workItem from="1551332840023" duration="96000" />
     </task>
     <task id="LOCAL-00001" summary="修正了MarkDown语法">
       <created>1550117941694</created>
@@ -550,16 +533,24 @@
       <option name="project" value="LOCAL" />
       <updated>1551274203478</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="修改包名">
+      <created>1551332906127</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1551332906127</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="259346000" />
+    <option name="totallyTimeSpent" value="259442000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26705757" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26972282" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -648,7 +639,8 @@
     <MESSAGE value="add 33章 full code" />
     <MESSAGE value="add 34章 full code" />
     <MESSAGE value="add 35zhang full code&#10;add 36zhang full code&#10;add 37zhang full code&#10;add 38zhang full code" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 35zhang full code&#10;add 36zhang full code&#10;add 37zhang full code&#10;add 38zhang full code" />
+    <MESSAGE value="修改包名" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改包名" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1028,7 +1020,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day201900228/README.md">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190228/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -1065,7 +1057,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190227/math/TestDemo6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
+        <state relative-caret-position="572">
           <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
