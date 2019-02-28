@@ -2,94 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0ae895b-bd97-4487-b3ff-47d83c6706d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/clone/TestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/date/SimpleDateFormat继承关系描述.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/date/TestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/date/TestDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/date/TestDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/date/TestDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/date/TestDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/math/TestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/math/TestDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/math/TestDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/math/TestDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/runtime/GC流程分析.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/runtime/TestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/runtime/TestDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/runtime/TestDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/string/TestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/string/TestDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/string/TestDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/string/TestDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/string/TestDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/string/TestDemo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/string/TestDemo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/string/TestDemo7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/string/TestDemo8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/system/TestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/system/TestDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/thread/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/thread/Info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/thread/Productor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/thread/TestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/thread/TestDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/thread/TestDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/thread/生产者消费者模型分析.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day201900228/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/math/TestDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/math/TestDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/math/TestDemo6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ac/day20190221/multitionpattern/TestDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190221/multitionpattern/TestDemo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ac/day20190226/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190226/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190130/Emp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190130/Emp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190130/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190130/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190201/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190201/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190201/Car1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190201/Car1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190201/ComparingObjectDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190201/ComparingObjectDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190201/ComparingObjectDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190201/ComparingObjectDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190201/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190201/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190201/Person1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190201/Person1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190201/Person2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190201/Person2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190201/Person2CarTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190201/Person2CarTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190201/Person2CarTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190201/Person2CarTest1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190201/Person3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190201/Person3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190201/Person4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190201/Person4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190201/Person4Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190201/Person4Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190201/Person4Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190201/Person4Test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190209/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190209/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190209/Person1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190209/Person1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190209/Person2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190209/Person2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190209/PersonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190209/PersonTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190209/PersonTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190209/PersonTest1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190210/innerclass/Outer$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190210/innerclass/Outer$Inner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190210/innerclass/Outer3$1Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190210/innerclass/Outer3$1Inner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190210/innerclass/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190210/innerclass/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190210/innerclass/Person1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190210/innerclass/Person1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190210/samplejavaclass/Dept.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190210/samplejavaclass/Dept.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190210/samplejavaclass/Emp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190210/samplejavaclass/Emp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190210/samplejavaclass/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190210/samplejavaclass/Item.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190210/samplejavaclass/SubItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190210/samplejavaclass/SubItem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190210/samplejavaclass/TestDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190210/samplejavaclass/TestDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190210/samplejavaclass/TestDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190210/samplejavaclass/TestDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190210/samplejavaclass/TestDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190210/samplejavaclass/TestDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190210/samplejavaclass/TestDemo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190210/samplejavaclass/TestDemo3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190211/abstractclass/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190211/abstractclass/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190211/abstractclass/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190211/abstractclass/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190211/abstractclass/Pig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190211/abstractclass/Pig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190211/abstractclass/Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190211/abstractclass/Robot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190211/arrayoper/ArrayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190211/arrayoper/ArrayTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190211/extend/Person1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190211/extend/Person1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190211/extend/Student1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190211/extend/Student1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190211/extend/TestDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190211/extend/TestDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190211/extend/TestJava1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190211/extend/TestJava1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190211/polym/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190211/polym/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190211/polym/B1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190211/polym/B1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190211/polym/B2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190211/polym/B2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190211/polym/B3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190211/polym/B3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190211/polym/B4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190211/polym/B4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190211/polym/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190211/polym/C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190211/polym/C1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190211/polym/C1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190211/polym/C3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190211/polym/C3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190212/interfaceexample/X.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190212/interfaceexample/X.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/date/SimpleDateFormat继承关系描述.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190227/date/SimpleDateFormat继承关系描述.pptx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -100,60 +20,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190227/system/TestDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="33" selection-start-column="8" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190226/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="277">
-                <caret line="63" column="29" lean-forward="true" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190227/math/TestDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190227/math/TestDemo6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="31" lean-forward="true" selection-start-column="8" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190227/runtime/TestDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="34" selection-start-column="8" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190227/date/TestDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="31" lean-forward="true" selection-start-column="8" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190227/string/TestDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="33" lean-forward="true" selection-start-column="8" selection-end-column="33" />
+            <state relative-caret-position="372">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -175,9 +47,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190221/advanced_pro/TestDemo3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190221/advanced_pro/TestDemo4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190221/advanced_pro/TestDemo5.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190221/advanced_pro/TestDemo6.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190221/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190221/multitionpattern/TestDemo5.java" />
@@ -222,10 +91,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190227/math/TestDemo1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190227/math/TestDemo2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190227/math/TestDemo3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190227/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190227/thread/Consumer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190227/string/TestDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190226/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190227/math/TestDemo4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190227/math/TestDemo5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190227/math/TestDemo6.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190227/README.md" />
       </list>
     </option>
   </component>
@@ -284,17 +156,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ac" type="462c0819:PsiDirectoryNode" />
-              <item name="day20190227" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ac" type="462c0819:PsiDirectoryNode" />
-              <item name="day20190227" type="462c0819:PsiDirectoryNode" />
-              <item name="math" type="462c0819:PsiDirectoryNode" />
+              <item name="day201900228" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -306,7 +168,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551274120757" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551327995385" />
     <property name="last_opened_file_path" value="C:/Program Files/Development Language/Java/jdk1.8.0_192/src" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -317,12 +179,8 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\aochong\Documents\GitHub Repository\java-basic\src\main\java\com\ac\day20190227\date" />
-      <recent name="C:\Users\aochong\Documents\GitHub Repository\java-basic\src\main\java\com\ac\day20190227\thread" />
-      <recent name="C:\Users\aochong\Documents\GitHub Repository\java-basic\src\main\java\com\ac\day20190227\runtime" />
-      <recent name="C:\Users\aochong\Documents\GitHub Repository\java-basic\src\main\java\com\ac\day20190227" />
-      <recent name="C:\Users\aochong\Documents\GitHub Repository\java-basic\src\main\java\com\ac\day20190226\thread" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Idea-Workspace-Java\java-base\src\main\java\com\ac\day20190210\innerclass" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.ac.day20190227.math" />
@@ -331,8 +189,12 @@
       <recent name="com.ac.day20190227.runtime" />
       <recent name="com.ac.day20190227.string" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Idea-Workspace-Java\java-base\src\main\java\com\ac\day20190210\innerclass" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aochong\Documents\GitHub Repository\java-basic\src\main\java\com\ac\day20190227" />
+      <recent name="C:\Users\aochong\Documents\GitHub Repository\java-basic\src\main\java\com\ac\day20190226" />
+      <recent name="C:\Users\aochong\Documents\GitHub Repository\java-basic\src\main\java\com\ac\day201900228" />
+      <recent name="C:\Users\aochong\Documents\GitHub Repository\java-basic\src\main\java\com\ac\day20190227\date" />
+      <recent name="C:\Users\aochong\Documents\GitHub Repository\java-basic\src\main\java\com\ac\day20190227\thread" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -347,37 +209,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestDemo3 (1)">
+  <component name="RunManager" selected="Application.TestDemo6">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ac.day20190227.math.TestDemo" />
-      <module name="java-basic" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ac.day20190227.math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestDemo1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ac.day20190227.math.TestDemo1" />
-      <module name="java-basic" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ac.day20190227.math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -424,13 +258,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ac.day20190227.date.TestDemo4" />
+    <configuration name="TestDemo4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ac.day20190227.math.TestDemo4" />
       <module name="java-basic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ac.day20190227.date.*" />
+          <option name="PATTERN" value="com.ac.day20190227.math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ac.day20190227.math.TestDemo5" />
+      <module name="java-basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ac.day20190227.math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ac.day20190227.math.TestDemo6" />
+      <module name="java-basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ac.day20190227.math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -470,19 +332,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.TestDemo1" />
-      <item itemvalue="Application.TestDemo4" />
-      <item itemvalue="Application.TestDemo" />
-      <item itemvalue="Application.TestDemo1 (1)" />
       <item itemvalue="Application.TestDemo2 (1)" />
       <item itemvalue="Application.TestDemo3 (1)" />
+      <item itemvalue="Application.TestDemo4 (1)" />
+      <item itemvalue="Application.TestDemo5" />
+      <item itemvalue="Application.TestDemo6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestDemo6" />
+        <item itemvalue="Application.TestDemo5" />
+        <item itemvalue="Application.TestDemo4 (1)" />
         <item itemvalue="Application.TestDemo3 (1)" />
         <item itemvalue="Application.TestDemo2 (1)" />
-        <item itemvalue="Application.TestDemo1 (1)" />
-        <item itemvalue="Application.TestDemo" />
-        <item itemvalue="Application.TestDemo4" />
       </list>
     </recent_temporary>
   </component>
@@ -524,7 +386,8 @@
       <workItem from="1551228305541" duration="5383000" />
       <workItem from="1551233774751" duration="4436000" />
       <workItem from="1551241297728" duration="8126000" />
-      <workItem from="1551261591655" duration="8737000" />
+      <workItem from="1551261591655" duration="8842000" />
+      <workItem from="1551314703765" duration="5207000" />
     </task>
     <task id="LOCAL-00001" summary="修正了MarkDown语法">
       <created>1550117941694</created>
@@ -680,17 +543,23 @@
       <option name="project" value="LOCAL" />
       <updated>1551187206103</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="add 35zhang full code&#10;add 36zhang full code&#10;add 37zhang full code&#10;add 38zhang full code">
+      <created>1551274203478</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1551274203478</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="254034000" />
+    <option name="totallyTimeSpent" value="259346000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18176973" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26705757" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -778,7 +647,8 @@
     <MESSAGE value="add 32章 full code" />
     <MESSAGE value="add 33章 full code" />
     <MESSAGE value="add 34章 full code" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 34章 full code" />
+    <MESSAGE value="add 35zhang full code&#10;add 36zhang full code&#10;add 37zhang full code&#10;add 38zhang full code" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 35zhang full code&#10;add 36zhang full code&#10;add 37zhang full code&#10;add 38zhang full code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -793,38 +663,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190221/multitionpattern/TestDemo5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190225/thread/TestDemo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <folding>
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190225/thread/TestDemo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190225/thread/TestDemo4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190225/thread/TestDemo5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1124,26 +962,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190227/math/TestDemo3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="55" lean-forward="true" selection-start-line="11" selection-end-line="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190227/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="234">
-            <caret line="9" selection-start-line="9" selection-end-line="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190227/thread/Consumer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
@@ -1190,13 +1008,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190227/math/TestDemo5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190226/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="277">
-            <caret line="63" column="29" lean-forward="true" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
+          <first_editor relative-caret-position="234">
+            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day201900228/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190227/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1664">
+            <caret line="64" column="24" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190227/math/TestDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190227/math/TestDemo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" selection-start-line="10" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190227/math/TestDemo6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>

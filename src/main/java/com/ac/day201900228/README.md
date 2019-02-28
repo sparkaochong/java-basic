@@ -43,10 +43,9 @@ com.ac.day20190227.math.TestDemo1.java
 com.ac.day20190227.math.TestDemo2.java  
 com.ac.day20190227.math.TestDemo3.java  
 ### 38-1 数字操作类(BigInteger)
-com.ac.day20190227.math.TestDemo4.java  
+
 ### 38-1 数字操作类(BigDecimal)
-com.ac.day20190227.math.TestDemo5.java  
-com.ac.day20190227.math.TestDemo6.java  
+
 ### 笔记链接：
 | 章节 | 笔记链接 | 笔记内容 |
 | :--- | :--- | :--- |
