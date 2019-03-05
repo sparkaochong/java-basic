@@ -2,20 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0ae895b-bd97-4487-b3ff-47d83c6706d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190303/20190303.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190303/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190303/regex/TestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190303/regex/TestDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190303/regex/TestDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190303/regex/TestDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190303/regex/TestDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190303/regex/TestDemo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190303/regex/TestDemo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190303/regex/TestDemo7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190303/regex/TestDemo8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190303/regex/TestDemo9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190305/20190305.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190305/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190305/reflex/TestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190305/reflex/TestDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190305/reflex/TestDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190305/reflex/TestDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190305/reflex/TestDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190305/reflex/TestDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190305/reflex/TestDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190305/reflex/TestDemo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190305/reflex/TestDemo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ac/day20190305/reflex/TestDemo9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ac/day20190227/math/TestDemo5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ac/day20190227/math/TestDemo5.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -43,17 +42,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190227/thread/TestDemo1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190227/thread/TestDemo2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190227/string/TestDemo1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190227/string/TestDemo2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190227/string/TestDemo3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190227/string/TestDemo4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190227/string/TestDemo5.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190221/multitionpattern/TestDemo2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190227/string/TestDemo6.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190227/string/TestDemo7.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190227/string/TestDemo8.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190227/runtime/TestDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190227/runtime/TestDemo1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190227/runtime/TestDemo2.java" />
@@ -94,10 +82,21 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190303/regex/TestDemo8.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190303/regex/TestDemo9.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190303/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190305/reflex/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190305/reflex/TestDemo1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190305/reflex/TestDemo2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190305/reflex/TestDemo3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190305/reflex/TestDemo4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190305/reflex/TestDemo5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190305/reflex/TestDemo6.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190305/reflex/TestDemo7.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190305/reflex/TestDemo8.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190305/reflex/TestDemo9.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ac/day20190305/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1378" />
@@ -111,6 +110,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,7 +152,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ac" type="462c0819:PsiDirectoryNode" />
-              <item name="day20190303" type="462c0819:PsiDirectoryNode" />
+              <item name="day20190305" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-basic" type="b2602c69:ProjectViewProjectNode" />
@@ -160,21 +161,30 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ac" type="462c0819:PsiDirectoryNode" />
-              <item name="day20190303" type="462c0819:PsiDirectoryNode" />
-              <item name="regex" type="462c0819:PsiDirectoryNode" />
+              <item name="day20190305" type="462c0819:PsiDirectoryNode" />
+              <item name="reflex" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ac" type="462c0819:PsiDirectoryNode" />
+              <item name="day20190305" type="462c0819:PsiDirectoryNode" />
+              <item name="reflex" type="462c0819:PsiDirectoryNode" />
+              <item name="TestDemo9.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551619765749" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551774386484" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -185,23 +195,23 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\aochong\Documents\GitHub\java-basic\src\main\java\com\ac\day20190228" />
-      <recent name="E:\Idea-Workspace-Java\java-base\src\main\java\com\ac\day20190210\innerclass" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aochong\Documents\GitHub\java-basic\src\main\java\com\ac\day20190305\reflex" />
+      <recent name="C:\Users\aochong\Documents\GitHub\java-basic\src\main\java\com\ac\day20190305" />
+      <recent name="C:\Users\aochong\Documents\GitHub\java-basic\src\main\java\com\ac\day20190303" />
+      <recent name="C:\Users\aochong\Documents\GitHub\java-basic\src\main\java\com\ac\day20190228\array" />
+      <recent name="C:\Users\aochong\Documents\GitHub Repository\java-basic\src\main\java\com\ac\day20190227" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ac.day20190305.reflex" />
       <recent name="com.ac.day20190303.regex" />
       <recent name="com.ac.day20190227.math" />
       <recent name="com.ac.day20190227.date" />
       <recent name="com.ac.day20190227.system" />
-      <recent name="com.ac.day20190227.runtime" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\aochong\Documents\GitHub\java-basic\src\main\java\com\ac\day20190303" />
-      <recent name="C:\Users\aochong\Documents\GitHub\java-basic\src\main\java\com\ac\day20190228\array" />
-      <recent name="C:\Users\aochong\Documents\GitHub Repository\java-basic\src\main\java\com\ac\day20190227" />
-      <recent name="C:\Users\aochong\Documents\GitHub Repository\java-basic\src\main\java\com\ac\day20190226" />
-      <recent name="C:\Users\aochong\Documents\GitHub Repository\java-basic\src\main\java\com\ac\day201900228" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aochong\Documents\GitHub\java-basic\src\main\java\com\ac\day20190228" />
+      <recent name="E:\Idea-Workspace-Java\java-base\src\main\java\com\ac\day20190210\innerclass" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -238,12 +248,12 @@
       </method>
     </configuration>
     <configuration name="TestDemo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ac.day20190303.regex.TestDemo5" />
+      <option name="MAIN_CLASS_NAME" value="com.ac.day20190305.reflex.TestDemo5" />
       <module name="java-base" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ac.day20190303.regex.*" />
+          <option name="PATTERN" value="com.ac.day20190305.reflex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,12 +262,12 @@
       </method>
     </configuration>
     <configuration name="TestDemo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ac.day20190303.regex.TestDemo6" />
+      <option name="MAIN_CLASS_NAME" value="com.ac.day20190305.reflex.TestDemo6" />
       <module name="java-base" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ac.day20190303.regex.*" />
+          <option name="PATTERN" value="com.ac.day20190305.reflex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -266,12 +276,12 @@
       </method>
     </configuration>
     <configuration name="TestDemo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ac.day20190303.regex.TestDemo7" />
+      <option name="MAIN_CLASS_NAME" value="com.ac.day20190305.reflex.TestDemo7" />
       <module name="java-base" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ac.day20190303.regex.*" />
+          <option name="PATTERN" value="com.ac.day20190305.reflex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,12 +290,12 @@
       </method>
     </configuration>
     <configuration name="TestDemo8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ac.day20190303.regex.TestDemo8" />
+      <option name="MAIN_CLASS_NAME" value="com.ac.day20190305.reflex.TestDemo8" />
       <module name="java-base" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ac.day20190303.regex.*" />
+          <option name="PATTERN" value="com.ac.day20190305.reflex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,12 +304,12 @@
       </method>
     </configuration>
     <configuration name="TestDemo9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ac.day20190303.regex.TestDemo9" />
+      <option name="MAIN_CLASS_NAME" value="com.ac.day20190305.reflex.TestDemo9" />
       <module name="java-base" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ac.day20190303.regex.*" />
+          <option name="PATTERN" value="com.ac.day20190305.reflex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -401,6 +411,10 @@
       <workItem from="1551402938603" duration="24000" />
       <workItem from="1551406535849" duration="695000" />
       <workItem from="1551599748868" duration="8859000" />
+      <workItem from="1551660037718" duration="610000" />
+      <workItem from="1551748725279" duration="95000" />
+      <workItem from="1551767624457" duration="6599000" />
+      <workItem from="1551774837935" duration="934000" />
     </task>
     <task id="LOCAL-00001" summary="修正了MarkDown语法">
       <created>1550117941694</created>
@@ -574,12 +588,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="277395000" />
+    <option name="totallyTimeSpent" value="285633000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1684435" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1748401" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -588,7 +602,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3290735" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38379532" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38379532" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39872068" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -690,87 +704,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190227/string/TestDemo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190227/string/TestDemo4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190227/string/TestDemo5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" selection-start-line="8" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190221/multitionpattern/TestDemo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190227/string/TestDemo6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190227/string/TestDemo7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190227/string/TestDemo8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" selection-start-line="8" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Development Language/Java/jdk1.8.0_192/src.zip!/java/lang/StringBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2012">
-          <caret line="114" column="11" selection-start-line="114" selection-start-column="11" selection-end-line="114" selection-end-column="11" />
-          <folding>
-            <element signature="e#4139#4140#0" expanded="true" />
-            <element signature="e#4164#4165#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190227/string/TestDemo3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190227/runtime/TestDemo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190227/runtime/TestDemo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="25" column="49" lean-forward="true" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Development Language/Java/jdk1.8.0_192/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
@@ -1113,6 +1046,98 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="312">
             <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190305/reflex/TestDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" selection-start-line="18" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190305/reflex/TestDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190305/reflex/TestDemo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190305/reflex/TestDemo5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+          <folding>
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190305/reflex/TestDemo6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="962">
+          <caret line="41" column="44" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190305/reflex/TestDemo7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190305/reflex/TestDemo8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190305/reflex/TestDemo9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190305/reflex/TestDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190305/reflex/TestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ac/day20190305/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="338">
+            <caret line="13" selection-start-line="13" selection-end-line="13" />
           </first_editor>
           <second_editor />
         </state>
