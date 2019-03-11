@@ -18,6 +18,7 @@ com.ac.day20190309.jdbc.TestDemo9.java
 ### 44-5 批处理与事务处理
 com.ac.day20190309.jdbc.TestDemo10.java  
 com.ac.day20190309.jdbc.TestDemo11.java  
+com.ac.day20190309.jdbc.TestDemo12.java  
 ### 笔记链接：
 | 章节 | 笔记链接 | 笔记内容 |
 | :--- | :--- | :--- |
